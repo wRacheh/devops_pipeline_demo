@@ -2,7 +2,7 @@
 
 ```
 #!/bin/bash
-echo "*******-Starting CI CD Pipeline Tasks-*******"
+echo "*******-Starting CI CD Pipeline Tasks- WR*******"
 #-BUILD
 echo ""
 echo "..... Build Phase Started :: Compiling Source Code :: ......"
